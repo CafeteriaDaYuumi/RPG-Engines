@@ -4,6 +4,7 @@ Sistema de gerenciamento e resolução de testes para RPG de mesa baseado em pot
 
 O projeto foi desenvolvido em **C# (.NET)** e roda como uma **aplicação de console**.
 
+
 ## Objetivo
 
 Criar uma engine simples para:
@@ -13,6 +14,7 @@ Criar uma engine simples para:
 - Executar testes de habilidade
 - Resolver confrontos entre personagens
 - Persistir dados em JSON
+
 
 ## Funcionalidades
 
@@ -25,6 +27,7 @@ Criar uma engine simples para:
 - Edição e exclusão de dados
 - Persistência em JSON
 
+
 ## Sistema do RPG
 
 O sistema utiliza:
@@ -36,12 +39,15 @@ O sistema utiliza:
 - Conversão para percentual
 - Cálculo de potencial final
 
+
 ### Fórmula base
 
 Resultado Final = Potencial Usado × (Total no Dado × 0.05)
 
+
 ### Versão 1.0.0
 Essa versão e um conceito ainda não finalizado, mas já é possível criar personagens, equipamentos e realizar testes básicos.
+
 
 ## Limitações do sistema
 
