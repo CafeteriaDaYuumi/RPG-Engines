@@ -1,12 +1,9 @@
 ﻿# Stempunk RPG Engine
-
 Sistema de gerenciamento e resolução de testes para RPG de mesa baseado em potencial, status, perícias e equipamentos.
 
 O projeto foi desenvolvido em **C# (.NET)** e roda como uma **aplicação de console**.
 
-
 ## Objetivo
-
 Criar uma engine simples para:
 
 - Gerenciar personagens
@@ -40,12 +37,12 @@ O sistema utiliza:
 - Cálculo de potencial final
 
 
-### Fórmula base
+## Fórmula base
 
 Resultado Final = Potencial Usado × (Total no Dado × 0.05)
 
 
-### Versão 1.0.0
+## Versão 1.0.0
 Essa versão e um conceito ainda não finalizado, mas já é possível criar personagens, equipamentos e realizar testes básicos.
 
 
